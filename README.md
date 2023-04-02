@@ -14,4 +14,3 @@ Adventured:
     - Linux Debian Environment
     - Cisco Networking Environment
     - Ansible Automation# Sz3yan
-# sz3yan
