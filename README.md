@@ -13,4 +13,4 @@ Adventured:
     - Microsoft Windows Environment
     - Linux Debian Environment
     - Cisco Networking Environment
-    - Ansible Automation# Sz3yan
+    - Ansible Automation
