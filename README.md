@@ -1,10 +1,10 @@
 ### HAI HAI 👋🏻
 
-#### A Intern CyberSecurity Engineer by day ☼ and a Student by night ☾
+#### A CyberSecurity Engineer Intern by day ☼ and a Student by night ☾
 
 
 On going Adventures:
-- 👾 Malware Analysis CyberSecurity Enginner Intern
+- 👾 Malware Analysis & Reverse Engineering Intern
 
 <br/>
 
@@ -13,4 +13,4 @@ Adventured:
     - Microsoft Windows Environment
     - Linux Debian Environment
     - Cisco Networking Environment
-    - Ansible Automation
+    - Ansible Infrastructure Automation
