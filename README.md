@@ -1,10 +1,11 @@
 ### HAI HAI 👋🏻
 
-#### A CyberSecurity Engineer Intern by day ☼ and a Student by night ☾
-
-
 On going Adventures:
 - 👾 Malware Analysis & Reverse Engineering Intern
+    - Automation of Malware Analysis
+    - Terraform IAC on AWS
+    - CI/CD Pipeline
+- 🤫 Development of SZEJO
 
 <br/>
 
