@@ -3,6 +3,7 @@
 On going Adventures:
 - 👾 Malware Analysis & Reverse Engineering Intern
     - Automation of Malware Analysis
+    - Reverse Engineering
     - Terraform IAC on AWS
     - CI/CD Pipeline
 - 🤫 Development of SZEJO
